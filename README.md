@@ -2,17 +2,7 @@
 
 A Flutter sample application demonstrating an AI-powered voice agent for credit card sales. This app showcases real-time voice interaction capabilities using the EnableX Voice Bot SDK, featuring an intuitive animated UI with live speaking indicators.
 
-## 🎯 Features
 
-- **Voice Call Integration**: Connect and disconnect from AI voice agent calls seamlessly
-- **Real-time Speaking Detection**: Visual indicators for when the bot or user is speaking
-- **Mute/Unmute Functionality**: Control audio input during calls
-- **Animated UI**: 
-  - Pulse animation for connection status
-  - Breathing animation for the voice agent circle
-  - Wave animation when the bot is speaking
-- **Responsive Design**: Adapts to different screen sizes (mobile and tablet)
-- **Status Indicators**: Real-time connection and speaking status updates
 
 ## 📋 Prerequisites
 
@@ -142,8 +132,7 @@ ios/                         # iOS-specific configuration
 
 - ✅ Android
 - ✅ iOS
-- ⚠️ Web (not tested)
-- ⚠️ Desktop (not tested)
+
 
 ## 📝 License
 
