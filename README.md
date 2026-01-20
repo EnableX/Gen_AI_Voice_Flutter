@@ -96,17 +96,7 @@ ios/                         # iOS-specific configuration
 
 ## 🎨 UI Features
 
-- **Animated Voice Agent Circle**: 
-  - Outer pulse rings for visual feedback
-  - Inner breathing circle with status text
-  - Wave animation when bot is speaking
-  
-- **Status Text**: Dynamic status updates:
-  - "READY" - Initial state
-  - "CONNECTING..." - Establishing connection
-  - "CONNECTED" - Call active
-  - "BOT SPEAKING..." - Bot is talking
-  - "YOU SPEAKING..." - User is talking
+
 
 - **Control Buttons**:
   - Connect/Disconnect button
@@ -155,4 +145,3 @@ For issues related to:
 
 ---
 
-Made with ❤️ using Flutter
