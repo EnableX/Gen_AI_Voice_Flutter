@@ -19,8 +19,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/voice_bot_sample_app.git
-   cd voice_bot_sample_app
+   git clone https://github.com/EnableX/Gen_AI_Voice_Flutter.git
+   cd Gen_AI_Voice_Flutter
    ```
 
 2. **Install dependencies**
