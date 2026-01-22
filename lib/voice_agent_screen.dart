@@ -128,7 +128,7 @@ class _VoiceAgentAnimatedScreenState extends State<VoiceAgentAnimatedScreen>
   }
 
   Future<String> fetchToken(String virtualNumber) async {
-    final url = Uri.parse('https://botsdemo.enablex.io/get-token/?phone=$virtualNumber');
+    final url = Uri.parse('');//enter your url and get token
 
     try {
       final response = await http.post(
