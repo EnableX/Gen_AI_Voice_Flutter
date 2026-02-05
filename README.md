@@ -7,6 +7,7 @@ A Flutter sample application demonstrating an AI-powered voice agent for credit 
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed:
+You will need a virtual number from EnableX -EnableX Token API – Refer to the documentation to create a token: https://developer.enablex.io/docs/references/apis/voice-api/variants/voice-api-v2.0/content/api-routes/#create-token-for-app-to-voice
 
 - **Flutter SDK**: Version 3.9.2 or higher
 - **Dart SDK**: Compatible with Flutter 3.9.2+
